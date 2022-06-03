@@ -1,0 +1,74 @@
+
+.box{
+margin: 0 auto;    
+margin-top: 10px;
+border-radius: 10px 10px;
+width:550px;
+height:720px;
+
+}
+.login{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 60px;
+    color:black;
+    font-size: 38px;
+    font-family: 'Josefin Slab';
+}
+.username{
+    text-indent: 20px;
+    color:black;
+    
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 400px;
+    height: 60px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:180px ;
+    margin-left: 60px;
+}
+.password{
+    text-indent: 20px;
+    color: black;
+        border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 400px;
+    height: 60px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:270px ;
+    margin-left: 60px;
+
+}
+.submit{
+    font-size: 20px;
+    font-family: 'Josefin Slab';
+    margin-left: 60px;
+    margin-top: 370px;
+    border-radius: 30px 30px;
+    color:#B4AB3A;
+    background-color: black;
+    width: 400px;
+    height: 60px;
+}
+.submit:hover{
+    background-color: #B4AB3A;
+        color: black;
+}
+.signup{
+    font-size: 17px;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 150px;
+}
+.signuptext{
+    text-decoration-line: underline;
+    font-size: 20px;
+    font-family: 'Josefin Slab';
+    color:#B4AB3A;
+}

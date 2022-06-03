@@ -1,0 +1,157 @@
+
+.Cart-title{
+    font-family:"Josefin Slab";
+    font-size: 30px;
+    left: 840px;
+    top: 70px;
+    position: absolute;
+}
+.menu-title{
+    font-family:"Josefin Slab";
+    font-size: 30px;
+    left: 340px;
+    top: 55px;
+    position: absolute;
+    color: #B4AB3a;
+}
+
+.Cart-Dishname{
+    position: absolute;
+    left: 350px;
+    top: 70px;
+    color: #B4AB3a;
+    font-family: "Josefin Slab";
+    font-size: 30px;
+}
+.Cart-Price{
+    position: absolute;
+    left: 360px;
+    font-size: 25px;
+    top: 110px;
+    font-family: "Josefin Slab";
+}
+.AddQty{
+    background-color: black;
+    color: #B4AB3a;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px 10px ;
+    border-style: none;
+    font-size: 27px;
+    top: 100px;
+    left: 550px;
+    padding-bottom: 50px;
+    position: absolute;
+}
+.AddQty:hover{
+    background-color:#B4AB3a;
+    color: black;
+}
+.lessQty{
+    background-color: black;
+    color: #B4AB3a;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px 10px ;
+    border-style: none;
+    font-size: 27px;
+    top: 100px;
+    left: 650px;
+    padding-bottom: 50px;
+    position: absolute;
+}
+.lessQty:hover{
+    background-color: #B4AB3a;
+    color: black;
+}
+.Quantity{
+    font-family: "Josefin Slab";
+    font-size: 26px;
+    left: 615px;
+    top: 110px;
+    position: absolute;
+}
+.remove{
+    background-color: black;
+    color: #B4AB3a;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px 10px ;
+    border-style: none;
+    font-family: "Josefin Slab";
+    font-size: 22px;
+    top: 108px;
+    left: 750px;
+    padding-top: 5px;
+    position: absolute;
+}
+.remove:hover{
+    background-color: #B4AB3a;
+    color: black;
+}
+.Sub-Container{
+    border: 2px solid #B4AB3a;
+    width: 430px;
+    top: 180px;
+    height: 350px;
+    border-radius: 10px 10px;
+    position: absolute;
+    right: 100px;
+}
+.sub-heading{
+    font-family: "Josefin Slab";
+    font-size: 33px;
+    top: 80px;
+    left: 70px;
+    border-bottom: 3px solid #B4AB3a;
+    position: absolute;
+
+}.Pay-heading{
+    font-family: "Josefin Slab";
+    font-size: 33px;
+    top: 60px;
+    left: 100px;
+    position: absolute;
+}
+.payment
+{
+    position: absolute;
+    top: 220px;
+    left: 130px;
+    border-radius: 5px 5px;
+    height: 40px;
+    width: 180px;
+    background-color: #B4AB3a;
+    border-style: none;
+    font-size: 22px;
+    font-family: "Josefin Slab";
+}
+.payment:hover{
+    background-color: black;
+    color: #B4AB3a;
+}
+.Back-menu{
+    border-style: none;
+    text-decoration: underline;
+    font-family: "Josefin Slab";
+    font-size: 22px;
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    background-color: transparent;
+    color:black;
+}
+.order-cart{
+    position: absolute;
+   
+    left: 20px;
+    height: 250px;
+    width: 990px;
+
+    
+}
+.cart-row{
+    position: absolute;
+    top: 200px;
+    left: 240px;
+}

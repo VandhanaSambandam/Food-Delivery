@@ -1,0 +1,332 @@
+
+.container-fluid{
+ 
+      
+    height:500px;
+  margin-top: 330px;    
+    background-color: black;
+
+
+}
+.footer{
+  margin-top: 800px;
+  background-color: black;
+  border:2px solid black;
+  height:300px;
+  width: 100%;
+}
+.qualityicon{
+  margin-top: 130px;
+  position: absolute;
+  margin-left: 250px;
+}
+.tasteicon{
+  margin-top: 130px;
+  position: absolute;
+  margin-left: 830px;
+}
+.fasticon{
+  margin-top: 130px;
+  position: absolute;
+  margin-left: 1400px;
+}
+.taste{
+  color: #B4AB3A;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 800px;
+  font-size: 33px;
+  font-family: 'Josefin Slab'; 
+}
+.fast{
+  color: #B4AB3A;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 1350px;
+  font-size: 33px;
+  font-family: 'Josefin Slab'; 
+}
+.description{
+  text-indent: 75px;
+  margin-left:680px;
+  position: absolute;
+  font-family: 'Josefin Slab';
+  font-size: 22px;
+  margin-top: 310px;
+}
+.quality{
+  color: #B4AB3A;
+  position: absolute;
+  margin-top: 245px;
+  margin-left: 220px;
+  font-size: 33px;
+  font-family: 'Josefin Slab';
+}
+.fastdelivery{
+  margin-left:1280px;
+  position: absolute;
+  font-family: 'Josefin Slab';
+  font-size: 23px;
+  margin-top: 320px;
+}
+.context{
+  margin-left:130px;
+  position: absolute;
+  font-family: 'Josefin Slab';
+  font-size: 23px;
+  margin-top: 320px;
+}
+.logo{
+
+  margin-left:100px;
+  margin-top: 20px;
+}
+
+.truck{
+  width: 50%;
+  height:750px;
+    position: absolute;
+    float: right;
+    margin-top: -500px;
+    margin-left: 550px;
+   
+}
+.lead{
+  
+  margin-top: 55px;
+  font-size: 20px;
+
+}
+ .location{
+text-indent: -2px;
+border-style: none;
+  border-radius:5px 5px;
+  width:175px;
+  height:60px;
+  color:#B4AB3A;
+  background-color:  black;
+  font-family: 'Josefin Slab';
+  font-size: 20px;
+  margin-left:-5px
+}
+.location:hover{
+  background-color:black;
+  color: white;
+}
+.chevron{
+  position:absolute;
+  margin-top: 43px;
+  margin-left:175px;
+}
+
+.Discover{
+  position: absolute;
+ margin-top: 24px;
+  border-radius: 5px 5px;
+  color:black;
+  border-style: none;
+  font-size: 20px;
+  font-family: 'Josefin Slab';
+  text-indent: -2px;
+  letter-spacing: 1px; 
+  width: 200px;
+  height: 60px;
+  background-color:#B4AB3A;
+}
+.Discover:hover{
+  background-color:#b3a709;
+  color: black;
+}
+
+.text{
+  border: 2px solid transparent;
+  width: 400px;
+  height: 130px;
+  font-size: 41px;
+  font-family: 'Josefin Slab';
+  margin-top: 160px;
+  
+}
+
+
+.line{
+  font-size: 20px;
+  color: white;
+  margin-left: 750px;
+  margin-top: 55px;
+}
+.describe{
+  line-height:28px;
+  opacity: 0.6;
+  font-size: 18px;
+  color: white;
+  position: absolute;
+  margin-top:120px;
+  margin-left: -95px;
+}
+
+.company{
+  margin-top: -75px;
+  position: absolute;
+  font-size:25px;
+  color: white;
+  margin-left: 850px;
+}
+.list{
+  
+  position:absolute;
+  margin-top: 80px;
+  font-size: 18px;
+  opacity: 0.5;
+  margin-left: -100px;
+}
+.list1{
+  position:absolute;
+  margin-top: 120px;
+  font-size: 18px;
+  opacity: 0.5;
+  margin-left: -100px;
+}
+.list2{
+  position:absolute;
+  margin-top: 160px;
+  font-size: 18px;
+  opacity: 0.5;
+  margin-left: -100px;
+}
+.list3{
+  position:absolute;
+  margin-top: 49px;
+  font-size: 18px;
+  opacity: 0.5;
+  margin-left: -100px;
+}
+.bottom{
+  background-color:#B4AB3A;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+}
+.twitter{
+  position: absolute;
+  margin-top: 190px;
+  margin-left: -100px;
+}
+.fb{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: -40px;
+}
+.insta{
+  position: absolute;
+  margin-top: 183px;
+  margin-left: -5px;
+}
+
+.help{
+  margin-top: -75px;
+  position: absolute;
+  font-size:25px;
+  color: white;
+  margin-left: 1250px;
+}
+.support{
+  position:absolute;
+  margin-top: 50px;
+  font-size: 18px;
+  opacity: 0.8;
+  margin-left: -50px;
+  
+}
+.emailicon{
+  position: absolute;
+  top: 53px;
+  right: 60px;
+}
+.support1{
+  position: absolute;
+  top: 90px;
+  left: 40px;
+  opacity: 0.8;
+  font-size: 18px;
+}
+.phoneicon{
+  position: absolute;
+  top:90px;
+  right: 60px;
+}
+.menulink {
+  
+  margin-top: 70px;
+  font-family: 'Josefin Slab';
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.cpyrights{
+  position: absolute;
+  left: 710px;
+  top: 13px;
+}
+.cpyright{
+  position: absolute;
+  left: 740px;
+  font-size: 19px;
+  color: black;
+  top: 10px;
+}
+.about{
+  
+  
+  color:#B4AB3A;
+  background-color:black;
+  border-bottom: 2px solid #B4AB3A;
+  position: relative;
+ top: 320px;
+  left: 70px;
+  font-family: 'Josefin Slab';
+  font-size: 45px;
+}
+.foodziedescription{
+  position: relative;
+  top: 400px;
+  left: 30px;
+  font-family: 'Josefin Slab';
+  font-size: 28px;
+  color:black;
+}
+
+.aboutus{
+  position: relative;
+  top:550px;
+ left:75px;
+background-color: #B4AB3A;
+color: black;
+width: 125px;
+height: 55px;
+border-radius: 10px 10px;
+ font-family: 'Josefin Slab';
+  font-size: 19px;
+  text-decoration: none;
+ border-style: none; 
+}
+.aboutus:hover{
+  background-color: black;
+  color: #B4AB3A;
+}
+
+.backimg{
+  position: absolute;
+  
+  left: 200px;
+  top: 1450px;
+}
+.backdrop{
+  width: 60%;
+  height: 1048px;
+  top: 1390px;
+  left: 0px;
+  position: absolute;
+  background-color:#B4AB3A;
+  
+}

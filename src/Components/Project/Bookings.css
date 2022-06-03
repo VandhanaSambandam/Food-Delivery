@@ -1,0 +1,326 @@
+.bookings{
+    
+ position: absolute;
+ left: -50px;
+ top: 70px;
+}
+.Book{
+    color: #B4AB3A;
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    font-family: 'Josefin Slab';
+    font-size: 35px;
+}
+.Reserve-Box{
+    background-color: black;
+    backdrop-filter: blur(10px);
+    border: 5px solid black;
+    right:0px;
+    width: 515px;
+    position: absolute;
+    top: 68px;
+    height: 765px;
+
+}
+.getdate{
+    position: absolute;
+    right: 40px;
+    top: 150px;
+        height: 40px;   
+ color:#B4AB3A;
+ border-radius: 5px 5px;
+ border-bottom: 2px solid #B4AB3A;
+ background-color: #3b3a3a;
+ width: 180px;
+ height: 40px;
+ padding: 4px;      
+    font-size: 19px;
+}
+::-webkit-calendar-picker-indicator{
+background-color:  #B4AB3A;
+}
+.datelabel{
+    color: #B4AB3A;
+    font-size: 27px;
+font-family: 'Josefin Slab';
+position: absolute;
+right: 360px;
+top: 150px;
+}
+.Members{
+    color: #B4AB3A;
+    font-size: 27px;
+font-family: 'Josefin Slab';
+position: absolute;
+right: 310px;
+top: 250px;
+}
+.getmembers{
+    position: absolute;
+right: 150px;
+top: 250px;
+border-radius: 10px 10px;
+background-color: #3b3a3a;
+border-bottom:2px solid  #B4AB3A;
+width: 70px;
+height: 40px;
+border-radius: 5px 5px;
+text-indent: 5px;
+color: #B4AB3A;
+font-size: 19px;
+}
+.time{
+    color: #B4AB3A;
+    font-size: 27px;
+font-family: 'Josefin Slab';
+position: absolute;
+right: 350px;
+top: 350px;
+}
+.mobile{
+    white-space: nowrap;
+    color: #B4AB3A;
+    font-size: 27px;
+font-family: 'Josefin Slab';
+position: absolute;
+right: 285px;
+top: 455px;
+}
+.gettime{
+    position: absolute;
+    right: 40px;
+    top: 350px;
+    background-color: #3b3a3a;
+    border-bottom: 2px solid #B4AB3A;
+    width: 180px;
+    height: 50px;
+    border-radius: 5px 5px;
+    text-indent: 5px;
+    color: #B4AB3A;
+    padding: 10px;
+    font-size: 19px;
+}
+.getnumber{
+    border-radius: 5px 5px ;
+    position: absolute;
+    background-color: #3b3a3a;
+    border-bottom: 2px solid #B4AB3A;
+    text-indent: 2px;
+    width: 180px;
+    height: 40px;
+    right: 40px;
+    top: 450px;
+    font-size: 18px;
+    text-indent: 8px;
+    color: #B4AB3A;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.Reserve{
+    border-radius: 15px 15px;
+    border: 2px solid #B4AB3A;
+    background-color: black;
+    color: #B4AB3A;
+    width: 200px;
+    height: 50px;
+    right: 150px;
+    top: 560px;
+    font-size: 20px;
+    font-family: 'Josefin Slab';
+    position: absolute;
+}
+.Reserve:hover{
+    background-color: #B4AB3A;
+    color: black;
+}
+.Booking-footer{
+    
+    position: absolute;
+    width: 100%;
+    height: 157px;
+    background-color:black;
+    left: 0px;
+    top: 2900px;
+}
+.blacklogo{
+    position: absolute;
+    left: 350px;
+    top: 30px;
+}
+.Baddress{
+    position: absolute;
+    color: #B4AB3A;
+    font-size: 28px;
+    font-family: "Josefin Slab";
+    left: 680px;
+    top: 33px;
+}
+
+.phone-Number{
+    position: absolute;
+    color: black;
+    font-size: 23px;
+    right: 150px;
+    top: 30px;
+    font-family: "Josefin Slab";
+}
+.blackend{
+    border: 2px solid black;
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    top: 930px;
+    left: 0px;
+    position: absolute;
+}
+.b-copy{
+    font-family: "Josefin Slab";
+    font-size: 22px;
+    color: #B4AB3A;
+    top: 30px;
+    left: 820px;
+    position: absolute;
+}
+.Party-service{
+    
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    
+    top: 990px;
+}
+.Party-header{
+    left: 400px;
+    font-family: "Josefin Slab";
+    position: absolute;
+    font-size: 50px;
+    top: -50px;
+}
+.Finding-hall{
+    font-family: "Josefin Slab";
+    font-size: 38px;
+    position: absolute;
+    left: 440px;
+    top: 35px;
+
+    color: #B4AB3A;
+}
+.bday-party{
+    font-family: "Josefin Slab";
+    font-size: 44px;
+    position: absolute;
+    top: 300px;
+    color: #B4AB3A;
+   text-decoration: underline;
+     left: 1000px;
+}
+.official-meeting{
+    left: -100px;
+    font-family: "Josefin Slab";
+    font-size: 44px;
+    position: absolute;
+    top: 1250px;
+    color: #B4AB3A;
+   text-decoration: underline;
+}
+.bday{
+    position: absolute;
+    top: 200px;
+    left: -250px;
+}
+.party-hall{
+    position: absolute;
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 400px;
+    right: 320px;
+}
+.party-hall1{
+    left: -150px;
+    position: absolute;
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 1350px;
+}
+.info1{
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 510px;
+    right: 510px;
+    position: absolute;
+}
+.info1-meeting{
+    left: -150px;
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 1470px;
+    position: absolute;
+}
+.info2{
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 550px;
+    right: 330px;
+    position: absolute;
+}
+.info2-meeting{
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 1530px;
+    left: -150px;
+    position: absolute;
+}
+.info3{
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 610px;
+    right: 555px;
+    position: absolute;
+}
+.info3-meeting{
+    font-family: "Josefin Slab";
+    font-size: 24px;
+    top: 1610px;
+    left: -150px;
+    position: absolute;
+}
+.meeting-room{
+    top: 1150px;
+    position: absolute;
+    right: 250px;
+}
+.B-Address{
+    font-size: 22px;
+    color: #B4AB3A;
+    position: absolute;
+    right: 200px;
+    top: 33px;
+    font-family: "Josefin Slab";
+}
+.Booking-copyright{
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    background-color:#B4AB3A;
+    left: 0px;
+    top: 3055px;   
+}
+.b-copy{
+    position: absolute;
+    top: 15px;
+    left: 713px;
+}
+.b-copy1{
+    position: absolute;
+    font-family: "Josefin Slab";
+    font-size: 25px;
+    color: black;
+    left: 750px;
+    top: 13px;
+}

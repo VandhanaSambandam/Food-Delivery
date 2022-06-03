@@ -1,0 +1,106 @@
+.border-box{
+    
+        
+    margin: 0 auto;
+    margin-top: 30px;
+    width:500px;
+    
+    
+}
+.title{
+    position: absolute;
+margin-top: 30px;
+margin-left: 210px;
+    font-family: 'Josefin Slab';
+    font-size: 38px;
+}
+.textbox1{
+    text-indent: 20px;
+    color:black;
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 250px;
+    height: 50px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:120px ;
+    margin-left: 10px;
+}
+
+.textbox2{
+    text-indent: 20px;
+    color:black;
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 255px;
+    height: 50px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:120px ;
+    margin-left: 270px;
+}
+.Email{
+    text-indent: 20px;
+    color:black;
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 520px;
+    height: 50px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:200px ;
+    margin-left:10px;
+ 
+}
+.signpassword{
+    text-indent: 20px;
+    color:black;
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    width: 520px;
+    height: 50px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    letter-spacing: 1px;
+    position:absolute;
+    margin-top:280px ;
+    margin-left:10px;
+   
+}
+.signupbtn{
+    font-size: 20px;
+    font-family: 'Josefin Slab';
+    margin-left: 10px;
+    margin-top: 370px;
+    border-radius: 30px 30px;
+    color:#B4AB3A;
+    background-color: black;
+    width: 520px;
+    height: 60px;
+}
+.signupbtn:hover{
+    background-color: #B4AB3A;
+    color: black;
+}
+.pagelink{
+    position: absolute;
+    font-size: 19px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.signuptext1{
+    margin-left: 5px;
+    text-decoration-line: underline;
+    font-size: 20px;
+    font-family: 'Josefin Slab';
+    color:#B4AB3A;
+}
+.signuptext1:hover{
+    color: black;
+}
