@@ -1,0 +1,54 @@
+.checkout{
+    left: 550px;
+    position: fixed;
+}
+.checkout-row{
+    top: 120px;
+    position: absolute;
+    left: 200px;
+}
+.paytitle{
+    top:70px;
+    left: 120px;
+    position: absolute;
+    font-family: 'Times New Roman';
+}
+.cod{
+    font-family: "Times New Roman";
+    font-size: 25px;
+}
+.droppay{
+    top: 167px;
+    position: absolute;
+    left: 41px;
+    border: 2px solid gray;
+    height: 51px;
+ 
+    text-indent: 8px;
+   
+    width: 190px;
+    border-radius: 10px 10px;
+}
+.cards{
+    font-family: "Times New Roman";
+    font-size: 25px;
+    top: 80px;
+    position: relative;
+}
+.placeorder{
+border-style: none;
+width: 180px;
+height: 50px;
+font-size:19px;
+top: 330px;
+left:25px;
+position: absolute;
+font-family: 'Josefin Slab';
+background-color: #B4AB3A;
+border-radius: 10px 10px;
+
+}
+.placeorder:hover{
+    background-color: black;
+    color: #B4AB3A;
+}

@@ -1,0 +1,11 @@
+.foot{
+    padding:25px 0;    
+    width: 100%;    
+    bottom: 0;
+    display: flex;
+    position: fixed;
+    left: 223px;
+    flex: 0 0 auto;
+    justify-content: space-around;
+    
+}

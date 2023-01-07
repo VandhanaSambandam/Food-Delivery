@@ -1,0 +1,47 @@
+.D-title{
+    font-family: 'Josefin Slab';
+    font-size: 63px;
+    top: 50px;
+}
+.m-card{
+    /*border: 2px solid black;*/
+    width: 320px;
+    height: 250px;
+    left: -10px;
+    
+    border: 2px solid #B4AB3A;
+    
+      
+}
+.master-title{
+   
+    font-family: 'Josefin Slab';
+    font-size: 35px;
+    top: 193px;
+    left: 60px;
+    position: absolute;
+}
+.master-title1{
+    
+    font-family: 'Josefin Slab';
+    font-size: 35px;
+    top: 193px;
+    left: 380px;
+    position: absolute;
+}
+.master-title2{
+   
+    font-family: 'Josefin Slab';
+    font-size: 35px;
+    top: 193px;
+    right: 400px;
+    position: absolute;
+}
+.master-title3{
+   
+    font-family: 'Josefin Slab';
+    font-size: 35px;
+    top: 193px;
+    right: 60px;
+    position: absolute;
+}

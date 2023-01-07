@@ -1,0 +1,135 @@
+.Container-box{
+    position: absolute;
+    margin-top:40px;
+left: 250px;
+    width: 1300px;
+height: 700px;
+}
+.message-box{
+    border-radius: 30px 30px;
+    background-color: #B4AB3A;
+    top: 30px;
+    margin-right: 40px;
+    position: absolute;
+    width: 600px;
+    height: 650px;
+}
+
+.heading, .tags, .Contactheader, .headline ,.details{
+    font-family: 'Josefin Slab';
+    color: black;
+    
+    
+}
+.Contactheader{
+
+    color: #B4AB3A;
+    text-decoration: underline;
+}
+.YourName{
+    border-style: none;
+    text-indent: 10px;
+    border-radius: 15px 15px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    height: 60px;
+    width: 400px;
+    background-color: white;
+}
+.YourEmail{
+    border-style: none;
+    text-indent: 10px;
+    border-radius: 15px 15px;
+    position: absolute;
+    top: 270px;
+    left: 100px;
+    height: 60px;
+    width: 400px;
+    background-color:white;
+}
+.message{
+    border-style: none;
+    text-indent: 10px;
+    border-radius: 15px 15px;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    height: 100px;
+    width: 400px;
+    background-color:white;
+}
+.messagebtn{
+    background-color: black;
+    color: #B4AB3A;
+    width: 220px;
+    height: 60px;
+    font-family: 'Josefin Slab';
+    font-size: 20px;
+    border-radius: 10px 10px;
+    top: 480px;
+    left: 180px;
+    position: absolute;
+}
+.messagebtn:hover{
+    border-radius: 15px 15px;
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+}
+.bottom-box{
+    right:1px;
+    position: absolute;
+    top: 850px;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.btm1{
+    position: absolute;
+    top: 990px;
+    right: 1px;
+    background-color: #B4AB3A;
+    width: 100%;
+    height: 50px;
+}
+
+.clinks,.clinks1,.clinks2,.clinks3{
+position: absolute;    
+ top:30px;
+ font-size: 19px;
+ opacity: 0.5;
+}
+.clogo{
+    position: absolute;
+    left: 180px;
+}
+.clinks{
+    margin-left: 680px;
+}
+.clinks1{
+    left: 790px;
+}
+.clinks2{
+    left: 900px;
+}
+.clinks3{
+    left: 990px;
+}
+.row2{
+    position: absolute;
+    left: 1300px;
+    top:-30px;
+}
+.cpyrights{
+    position: absolute;
+    left: 710px;
+    top: 13px;
+}
+.cpyright{
+    position: absolute;
+    left: 740px;
+    font-size: 19px;
+    color: black;
+    top: 10px;
+}

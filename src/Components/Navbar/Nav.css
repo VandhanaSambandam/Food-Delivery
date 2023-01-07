@@ -1,0 +1,88 @@
+.navbar{
+background-color: black;
+    width:100%;
+height: 70px;
+}
+
+.nav-item .nav-link{
+    
+    color: #B4AB3A; /*FFC100*/
+    font-size: 20px;
+
+    
+}
+.nav-link{
+    
+    color: #B4AB3A;
+    font-family: 'Josefin Slab';
+    font-size: 19px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.img{
+    margin-top: -2px;
+    position:fixed;
+}
+.icon{
+    margin-right: -98px;
+}
+
+
+.nav-item .nav-link:hover{
+
+    color: #ffffff;
+}
+
+.cart{
+    margin-left: 35px;
+    margin-top: -2px;
+}
+button:hover{
+    background-color:whitesmoke;
+    color: black;
+    border-style: none;
+}
+.signin{
+    top: 15px;
+    position: absolute;
+    margin-left: 22px;
+    font-size: 18px;
+    font-family: 'Josefin Slab';
+    background-color: #B4AB3A;
+   border-radius: 8px 8px ;
+    height: 40px;
+    width: 80px;
+}
+.log{
+    top: 15px;
+    position: absolute;
+    right: 250px;
+    font-size: 18px;
+    font-family: 'Josefin Slab';
+    background-color: #B4AB3A;
+   border-radius: 8px 8px ;
+    height: 40px;
+    width: 80px;
+}
+/*.toggler{
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 120px;
+}*/
+.navname{
+    right: -65px;
+}
+.logout{
+    background-color: black;
+    color: #B4AB3A;
+    position: absolute;
+    right: 30px;
+}
+.accicon{
+    position: absolute;
+    top: 5px;
+    right: 220px;
+}
+
+    
